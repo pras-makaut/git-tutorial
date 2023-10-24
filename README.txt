@@ -38,3 +38,7 @@ if we just want to changes to be moved in woorking area and staging area tehn we
 
 
 `git diff commit1 commit2` - give the difference of all file changes between two commits.
+
+
+`git commit -m "<your commit message>"` - if you don't want to open any vim/nano operator to
+type the commit meggage. 
