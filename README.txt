@@ -53,3 +53,7 @@ downloading changes from each other.
 remote repo and name to it.
 
 `git remote rm <name of remote>` :  this command delete the remote connection.
+
+`git remote rename <olname> <newname>` : this command rename the new connection
+
+
