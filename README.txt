@@ -41,4 +41,15 @@ if we just want to changes to be moved in woorking area and staging area tehn we
 
 
 `git commit -m "<your commit message>"` - if you don't want to open any vim/nano operator to
-type the commit meggage. 
+type the commit meggage.
+
+`git remote` -> list down all the remote connection names.
+
+Remote Connection -> It helps you to link two git repository for uploading and 
+downloading changes from each other.
+
+
+`git remote add <name of remote> <link of the remote>` : this command helps us to add a new link to the 
+remote repo and name to it.
+
+`git remote rm <name of remote>` :  this command delete the remote connection.
