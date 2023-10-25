@@ -54,6 +54,9 @@ remote repo and name to it.
 
 `git remote rm <name of remote>` :  this command delete the remote connection.
 
+`git add .` : add all the file to working area to staging area.
+
+
 `git remote rename <olname> <newname>` : this command rename the new connection
 
 
