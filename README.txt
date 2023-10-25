@@ -60,3 +60,6 @@ remote repo and name to it.
 `git remote rename <olname> <newname>` : this command rename the new connection
 
 
+`git pull <remote name> <branch name>` :downlaod latest changes from the branch of the mentioned remote
+to your local repo 
+
